@@ -11,6 +11,9 @@
     <h2>🔨 Instructions for use: </h1>
     <ul>
         <li>
+            Clone the repository inside the xampp "htdocs" folder
+        </li>
+        <li>
             Open xampp and run apache
         </li>
         <li>
