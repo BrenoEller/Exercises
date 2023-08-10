@@ -17,7 +17,7 @@
             Open xampp and run apache
         </li>
         <li>
-            Go to http://localhost/MDCPartners/
+            Go to http://localhost/Exercises/
         </li>
     </ul>
 </div>
